@@ -18,13 +18,18 @@ description: >
 
 ## Resources
 
-📄 [Download the slides](/assets/trainings/faculties/life-sciences-medicine/20240614_K2C_seminar_deposit_in_repositories.pdf)
+
+📄 [Download the slides](../../assets/trainings/faculties/life-sciences-medicine/20240614_K2C_seminar_deposit_in_repositories.pdf)
 
 ```{=html}
 <object
-  data="../assets/trainings/faculties/faculties/life-sciences-medicine/20240614_K2C_seminar_deposit_in_repositories.pdf"
+  data="../../assets/trainings/faculties/life-sciences-medicine/20240614_K2C_seminar_deposit_in_repositories.pdf"
   type="application/pdf"
   width="100%"
   height="800">
+  <p>
+    PDF preview unavailable.
+    <a href="../../assets/trainings/faculties/life-sciences-medicine/20240614_K2C_seminar_deposit_in_repositories.pdf">Download the PDF</a>
+  </p>
 </object>
 ```
