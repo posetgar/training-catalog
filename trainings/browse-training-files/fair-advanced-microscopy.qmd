@@ -17,13 +17,18 @@ description: >
 
 ## Resources
 
-📄 [Download the slides](/assets/trainings/faculties/sciences/20250918_AdvancedMicroscopy_FAIR.pdf)
+
+📄 [Download the slides](../../assets/trainings/faculties/sciences/20250918_AdvancedMicroscopy_FAIR.pdf)
 
 ```{=html}
 <object
-  data="/assets/trainings/faculties/sciences/20250918_AdvancedMicroscopy_FAIR.pdf"
+  data="../../assets/trainings/faculties/sciences/20250918_AdvancedMicroscopy_FAIR.pdf"
   type="application/pdf"
   width="100%"
   height="800">
+  <p>
+    PDF preview unavailable.
+    <a href="../../assets/trainings/faculties/sciences/20250918_AdvancedMicroscopy_FAIR.pdf">Download the PDF</a>
+  </p>
 </object>
 ```
