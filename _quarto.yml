@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Ghent University - Team Open Science training catalog"
@@ -13,10 +14,10 @@ website:
       - href: index.qmd
         text: Home
 
-      - href: trainings\browse-training.qmd
+      - href: trainings/browse-training.qmd
         text: Training materials
 
-      - href: guidance-docs\browse-guidance.qmd
+      - href: guidance-docs/browse-guidance.qmd
         text: Guidance materials
 
 format:
