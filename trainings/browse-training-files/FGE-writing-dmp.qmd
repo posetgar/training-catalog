@@ -1,0 +1,21 @@
+---
+title: "Hands-on Writing a DMP"
+
+categories:
+  - data management plans
+
+audience: Faculty
+
+faculty: Medicine, Sciences
+
+date: 2023-06-14
+
+description: >
+  Hands-on workshop to get started writing a DMP.
+
+---
+
+## Resources
+
+📄 [Download the slides](/assets/trainings/faculties/life-sciences-medicine/20230202_writing-a-DMP.pdf)
+

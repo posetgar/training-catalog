@@ -1,0 +1,22 @@
+---
+title: "Introduction to Data Management Plans"
+
+categories:
+  - data management plans
+
+audience: University-wide
+
+faculty:
+
+date: 2020-05-05
+
+description: >
+  Guidance on preparing the final Data Management Plan
+  for FWO-funded projects.
+
+---
+
+## Resources
+
+📄 [Download the slides](/assets/trainings/university-wide/data-management-plans/20200505_DMP_webinar.pdf)
+

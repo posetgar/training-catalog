@@ -1,0 +1,30 @@
+---
+title: "KNOWLEDGE 2 CONNECT - Research Data Management - Deposit in repositories"
+
+categories:
+  - fair
+  - data sharing
+  - data repositories
+
+audience: Faculty
+
+faculty: Medicine
+
+date: 2024-06-14
+
+description: >
+  Introduction to FAIR data sharing in data repositories as part of the Knowledge 2 Connect series.
+---
+
+## Resources
+
+📄 [Download the slides](/assets/trainings/faculties/life-sciences-medicine/20240614_K2C_seminar_deposit_in_repositories.pdf)
+
+```{=html}
+<object
+  data="../assets/trainings/faculties/faculties/life-sciences-medicine/20240614_K2C_seminar_deposit_in_repositories.pdf"
+  type="application/pdf"
+  width="100%"
+  height="800">
+</object>
+```

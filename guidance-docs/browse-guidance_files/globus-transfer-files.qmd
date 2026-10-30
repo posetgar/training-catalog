@@ -1,0 +1,17 @@
+---
+title: "How to transfer files with Globus"
+
+categories:
+  - Security
+
+
+description: >
+  How to transfer files with Globus
+
+image: /assets/img/Globus_logo.png
+
+---
+
+## Resources
+
+📄 [Download the resource](/assets/guidance-docs/How-to-transfer-files-with-Globus.docx)

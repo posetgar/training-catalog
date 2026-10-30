@@ -1,0 +1,12 @@
+---
+title: "Ghent University Open Science training catalog"
+---
+
+Explore Open Science resources developed by the Ghent University Open Science team.
+
+Browse our **training materials** for slides and resources from workshops, presentations, and training sessions, or explore our **guidance materials** for practical guidelines, how-to documents, infosheets, and other reference materials.
+
+[Browse training materials](/trainings/browse-training.qmd){.btn .btn-primary}
+
+[Browse guidance materials](/guidance-docs/browse-guidance.qmd){.btn .btn-secondary}
+

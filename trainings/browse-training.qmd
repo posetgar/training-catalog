@@ -1,0 +1,24 @@
+---
+title: "Browse training materials"
+
+listing:
+  contents: ../trainings/browse-training-files/*.qmd
+  sort:
+    - "date desc"
+    - "title desc"
+  categories: true
+  type: table
+  fields:
+    - title
+    - audience
+    - faculty
+    - date
+    - categories
+  filter-ui: [title, faculty]
+
+---
+
+Use the catalogue below to explore available training materials.
+
+- Use the filter search box to filter by **title** or **faculty**.
+* Browse by **topic** by selecting one of the category tags on the right side.

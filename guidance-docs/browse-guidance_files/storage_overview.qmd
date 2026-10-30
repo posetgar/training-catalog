@@ -1,0 +1,17 @@
+---
+title: "Overview of storage solutions at Ghent University"
+
+categories:
+  - Storage
+  - Security
+
+
+description: >
+  Overview of storage solutions at Ghent University
+
+image: /assets/img/storage-overview.jpg"
+---
+
+## Resources
+
+📄 [Download the resource](/assets/guidance-docs/20241211_overview_storage_UGent_M365.jpg)

@@ -1,0 +1,18 @@
+---
+title: "How to address Open Science in Horizon Europe proposals"
+
+categories:
+  - Open Science
+  - Horizon Europe
+
+
+description: >
+  Guidance on addressing Open Science in HE proposals
+
+image: /assets/img/horizon-europe.png
+
+---
+
+## Resources
+
+📄 [Download the resource](/assets/guidance-docs/How_to_address_OS_in_HE_proposals.pdf)

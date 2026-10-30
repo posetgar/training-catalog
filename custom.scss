@@ -1,0 +1,67 @@
+/*-- scss:defaults --*/
+
+/* Import Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Poppins:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+/* UGent colours */
+
+$primary: #1E64C8;
+$secondary: #FFD200;
+
+$link-color: $primary;
+
+$navbar-bg: $primary;
+$navbar-fg: #ffffff;
+
+$body-bg: #ffffff;
+
+/* Typography */
+
+$font-family-sans-serif: 'Inter', sans-serif;
+$headings-font-family: 'Inter', sans-serif;
+
+$font-weight-base: 350;
+$headings-font-weight: 600;
+$font-size-base: 0.95rem;
+
+/*-- scss:rules --*/
+
+/* Headings */
+
+h1 {
+  color: $primary;
+  border-bottom: 3px solid $primary;
+  padding-bottom: 0.3rem;
+}
+
+h2, h3, h4, h5, h6 {
+  color: $primary;
+}
+
+/* Navbar */
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+/* Active sidebar item */
+
+.sidebar-navigation .active {
+  color: $primary;
+  font-weight: 600;
+}
+
+/* Breadcrumbs */
+
+.breadcrumb {
+  font-size: 0.95rem;
+}
+
+
+/* Selection highlight */
+
+::selection {
+  background: rgba(255, 210, 0, 0.4);
+}

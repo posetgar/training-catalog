@@ -1,0 +1,20 @@
+---
+title: "Writing a Final DMP for FWO"
+
+categories:
+  - data management plans
+
+audience: University-wide
+
+faculty:
+
+date: 2023-06-08
+
+description: >
+  Guidance on preparing the final Data Management Plan
+  for FWO-funded projects.
+---
+
+## Resources
+
+📄 [Download the slides](/assets/trainings/university-wide/data-management-plans/20230608_writingafinalDMPforFWO.pdf)

@@ -1,0 +1,18 @@
+---
+title: "Browse guidance materials"
+
+listing:
+  contents: ../guidance-docs/browse-guidance_files/*.qmd
+  sort:
+    - "date desc"
+    - "title desc"
+  categories: true
+  type: grid
+  fields:
+    - image
+    - title
+    - categories
+
+  filter-ui: [title]
+
+---
