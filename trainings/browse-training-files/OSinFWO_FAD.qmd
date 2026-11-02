@@ -1,0 +1,36 @@
+---
+title: "As open as possible, as closed as necessary: balancing Open Science and valorisation in your funding proposal (Focus: FWO)"
+
+categories:
+  - open science
+  - valorisation
+  - fwo
+
+audience: University-wide
+
+faculty: 
+
+date: 2026-05-20
+
+description: >
+  This session explores how to balance Open Science practices with intellectual property protection and valorisation requirements in FWO-funded research. Learn how to maximise openness while protecting research results when necessary to enable valorisation.
+
+---
+
+## Resources
+
+
+📄 [Download the slides](../../assets/trainings/university-wide/20260520_FAD_OpenScience_FWO.pdf)
+
+```{=html}
+<object
+  data="../../assets/trainings/university-wide/20260520_FAD_OpenScience_FWO.pdf"
+  type="application/pdf"
+  width="100%"
+  height="800">
+  <p>
+    PDF preview unavailable.
+    <a href="../../assets/trainings/university-wide/20260520_FAD_OpenScience_FWO.pdf">Download the PDF</a>
+  </p>
+</object>
+```
