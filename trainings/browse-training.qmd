@@ -14,7 +14,7 @@ listing:
     - faculty
     - date
     - categories
-  filter-ui: [title, faculty]
+  filter-ui: [title, faculty, audience]
 
 ---
 
