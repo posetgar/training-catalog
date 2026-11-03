@@ -18,5 +18,5 @@ description: >
 
 ## Resources
 
-📄 [Download the slides](/assets/trainings/university-wide/data-management-plans/20200505_DMP_webinar.pdf)
+📄 [Download the slides](/assets/trainings/university-wide/20200505_DMP_webinar.pdf)
 
