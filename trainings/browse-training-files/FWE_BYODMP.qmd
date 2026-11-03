@@ -14,7 +14,7 @@ faculty: Sciences
 date: 2025-10-23
 
 description: >
-  Need to finalize your Data Management Plan (DMP)? This interactive workshop is designed for researchers who already have a draft and want to move it closer to completion. We’ll walk through the key sections of the DMP, clarify what funders and institutions expect, and provide plenty of time for you to work on your own plan, to answer questions and offer personalized feedback.
+  Need to finalize your Data Management Plan (DMP)? This workshop is designed for researchers who already have a draft and want to move it closer to completion. We’ll walk through the key sections of the DMP, clarify what funders and institutions expect, and provide plenty of time for you to work on your own plan, to answer questions and offer personalized feedback.
 
 ---
 
