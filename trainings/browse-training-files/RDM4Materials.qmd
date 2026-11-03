@@ -1,0 +1,19 @@
+---
+title: "RDM for Materials Science"
+
+categories:
+  - data management plans
+
+audience: faculty
+
+faculty: Sciences
+
+date: 2023-12-01
+
+description: >
+  RDM applied for the Material Sciences discipline
+---
+
+## Resources
+
+📄 [Download the slides](../../assets/trainings/faculties/sciences/20231201_RDM4Materials_Chemistry_Physics.pdf)
