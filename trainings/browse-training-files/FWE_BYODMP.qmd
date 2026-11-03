@@ -5,6 +5,7 @@ categories:
   - fair
   - data management plans
   - fwo
+  - horizon europe
 
 audience: Faculty
 
