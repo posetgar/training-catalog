@@ -1,0 +1,21 @@
+---
+title: "How to Find a Repository, Zenodo, and Zenodo Communities"
+
+categories:
+  - data management plans
+  - horizon europe
+
+audience: University-wide
+
+faculty:
+
+date: 2025-06-08
+
+description: >
+  Presentation on selecting a repository, using re3data, and Zenodo, delivered
+  during LoveDataWeek 2026
+---
+
+## Resources
+
+📄 [Download the slides](../../assets/trainings/browse-training-files/LoveDataWeek2026-Zenodo.qmd)
