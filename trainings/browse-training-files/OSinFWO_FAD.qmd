@@ -8,7 +8,7 @@ categories:
 
 audience: University-wide
 
-faculty: 
+faculty:
 
 date: 2026-05-20
 
