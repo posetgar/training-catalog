@@ -4,6 +4,7 @@ title: "Bring your own DMP: Hands-on workshop"
 categories:
   - fair
   - data management plans
+  - fwo
 
 audience: Faculty
 
