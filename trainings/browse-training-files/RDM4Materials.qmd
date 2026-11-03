@@ -11,7 +11,7 @@ faculty: Sciences
 date: 2023-12-01
 
 description: >
-  RDM applied for the Material Sciences discipline
+  RDM applied for the Material Sciences discipline.
 ---
 
 ## Resources
