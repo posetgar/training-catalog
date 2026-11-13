@@ -1,0 +1,35 @@
+---
+title: "FAIR's in advanced microscopy 2026 edition"
+
+categories:
+  - fair
+  - fwo
+
+audience: Faculty
+
+faculty: Sciences
+
+date: 2025-09-18
+
+description: >
+  Introduction to RDM and the FAIR data principles  applied to advanced microscopy
+
+---
+
+## Resources
+
+
+📄 [Download the slides](../../assets/trainings/university-wide/2021-11-18_DEMO_Project_shares.pdf)
+
+```{=html}
+<object
+  data="../../assets/trainings/university-wide/2021-11-18_DEMO_Project_shares.pdf"
+  type="application/pdf"
+  width="100%"
+  height="800">
+  <p>
+    PDF preview unavailable.
+    <a href="../../assets/trainings/university-wide/2021-11-18_DEMO_Project_shares.pdf">Download the PDF</a>
+  </p>
+</object>
+```
