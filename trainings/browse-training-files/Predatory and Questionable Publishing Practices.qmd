@@ -1,0 +1,34 @@
+---
+title: "Predatory and questionable publishing practices"
+
+categories:
+  - publishing
+
+audience: university wide
+
+faculty: /
+
+date: 2026-11-13
+
+description: >
+  Aditional supporting material.
+
+---
+
+## Resources
+
+
+📄 [Download the slides](../../assets/trainings/university-wide/Predatory_and_Questionable_Publishing_Practices.pdf)
+
+```{=html}
+<object
+  data="../../assets/trainings/university-wide/Predatory_and_Questionable_Publishing_Practices.pdf"
+  type="application/pdf"
+  width="100%"
+  height="800">
+  <p>
+    PDF preview unavailable.
+    <a href="../../assets/trainings/university-wide/Predatory_and_Questionable_Publishing_Practices.pdf">Download the PDF</a>
+  </p>
+</object>
+```
