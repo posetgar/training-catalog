@@ -20,6 +20,7 @@ description: >
 
 
 📄 [Download the slides](../../assets/trainings/university-wide/2021-11-18_DEMO_Project_shares.pdf)
+![test](../../assets/img/horizon-europe.png)
 
 ```{=html}
 <object
