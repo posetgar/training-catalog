@@ -1,0 +1,33 @@
+---
+title: "Data Preservation and Sharing"
+
+categories:
+  - fair
+  - sharing
+
+audience: university-wide
+
+faculty:
+
+date: 2020-06-16
+
+description: >
+  RDM data sharing and preservation.
+---
+
+## Resources
+
+📄 [Download the slides](../../assets/trainings/university-wide/20200616_Preserving-and-sharing.pdf)
+
+```{=html}
+<object
+  data="../../assets/trainings/university-wide/20200616_Preserving-and-sharing.pdf"
+  type="application/pdf"
+  width="100%"
+  height="800">
+  <p>
+    PDF preview unavailable.
+    <a href="../../assets/trainings/university-wide/20200616_Preserving-and-sharing.pdf">Download the PDF</a>
+  </p>
+</object>
+```
