@@ -1,0 +1,33 @@
+---
+title: "Practical_GDPR_session"
+
+categories:
+  - GDPR
+
+audience: University-wide
+
+faculty:
+- University wide
+date: 2024-03-26
+
+description: >
+  AMAI/OEI/OH! THAT IS PERSONAL!.
+---
+
+## Resources
+
+📄 [Download the slides](../../assets/trainings/university-wide/20240326_Practical_GDPR_session.pdf)
+
+
+```{=html}
+<object
+  data="../../assets/trainings/university-wide/20240326_Practical_GDPR_session.pdf"
+  type="application/pdf"
+  width="100%"
+  height="800">
+  <p>
+    PDF preview unavailable.
+    <a href="../../assets/trainings/university-wide/20240326_Practical_GDPR_session.pdf">Download the PDF</a>
+  </p>
+</object>
+```
