@@ -1,0 +1,21 @@
+---
+title: "Introduction to Data Management Plans"
+
+categories:
+  - data management plans
+
+audience: University-wide
+
+faculty:
+
+date: 2022-04-07
+
+description: >
+  Guidance on preparing the final Data Management Plan for research projects.
+
+---
+
+## Resources
+
+📄 [Download the slides](../../assets/trainings/university-wide/20220427_DMPintro_training_FEA.pdf)
+
