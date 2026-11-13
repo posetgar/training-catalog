@@ -1,0 +1,21 @@
+---
+title: "Demo project shares"
+
+categories:
+  - data storage
+
+audience: University-wide
+
+faculty: 
+
+date: 2021-11-18
+
+description: >
+  Demo of the project shares.
+
+---
+
+## Resources
+
+📄 [Download the slides](../../assets/trainings/university-wide/2021-11-18_DEMO_Project_shares.pdf)
+
