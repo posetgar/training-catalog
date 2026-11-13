@@ -1,0 +1,35 @@
+---
+title: "M365_RDM-workspace"
+
+categories:
+  - fair
+  - data management
+
+audience: Researchers
+
+faculty:
+
+date: 2026-11-13
+
+description: >
+  Introduction to RDM workspace
+
+---
+
+## Resources
+
+
+📄 [Download the slides](../../assets/trainings/university-wide/20251204_M365_RDM-workspace.pdf)
+
+```{=html}
+<object
+  data="../../assets/trainings/university-wide/20251204_M365_RDM-workspace.pdf"
+  type="application/pdf"
+  width="100%"
+  height="800">
+  <p>
+    PDF preview unavailable.
+    <a href="../../assets/trainings/university-wide/20251204_M365_RDM-workspace.pdf">Download the PDF</a>
+  </p>
+</object>
+```
