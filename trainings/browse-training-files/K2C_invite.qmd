@@ -1,1 +1,34 @@
+---
+title: "KNOWLEDGE 2 CONNECT - invite image"
 
+categories:
+  - data sharing
+  - data repositories
+
+audience: Faculty
+
+faculty: Medicine
+
+date: 2025-06-14
+
+description: >
+  Invitation to session.
+---
+
+## Resources
+
+
+📄 [Download the slides](../../assets/trainings/faculties/life-sciences-medicine/uitnodiging_beeld_finaal.png)
+
+```{=html}
+<object
+  data="../../assets/trainings/faculties/life-sciences-medicine/uitnodiging_beeld_finaal.png"
+  type="application/png"
+  width="100%"
+  height="800">
+  <p>
+    Image preview unavailable.
+    <a href="../../assets/trainings/faculties/life-sciences-medicine/uitnodiging_beeld_finaal.png">Download the image</a>
+  </p>
+</object>
+```
